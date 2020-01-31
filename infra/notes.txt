@@ -1,0 +1,4 @@
+# Steps I have followed
+
+# 1 - it took me one and half day to complete this assignment.
+# 2 - For scalibility we can use Auto scaling, or Multi Az Instances for High Availability. 
